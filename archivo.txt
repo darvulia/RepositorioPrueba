@@ -1,4 +1,8 @@
 nuevos cambios
 
 
+<<<<<<< HEAD
 practicando el commit
+=======
+practicando el pull
+>>>>>>> 99f7dde86138d21ea27b24800f15d4d42d3404f4
